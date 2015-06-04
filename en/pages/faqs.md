@@ -4,7 +4,7 @@ description: Memba are the proud makers of Kidoju
 icon: typewriter
 keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
 language: en
-title: Memba
+title: Frequently Asked Questions
 uuid: 7cd169e0-0ab7-11e5-a5fc-0bc8f37470e1
 author: jlchereau
 author_url: https://github.com/jlchereau
@@ -13,3 +13,6 @@ creation_date: 2015-05-29T17:12:25Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/en/pages/faqs.md
 site_url: http://www.memba.com/en/faqs
 ---
+## Who is Memba?
+
+## What is Kidoju?
