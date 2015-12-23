@@ -9,9 +9,9 @@ uuid: 3fb02190-a955-11e5-9b32-4dc425266d67
 author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
-creation_date: 2015-12-23T09:11:34Z
+creation_date: 2014-12-23T09:11:34Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/posts/2014/microsoft.md
-site_url: http://www.memba.com/fr/posts/2015/12/microsoft
+site_url: http://www.memba.com/fr/posts/2014/12/microsoft
 ---
 Memba a longtemps été une boutique Microsoft et nous étions même Microsoft ISV et Microsoft Partner.
 Notre équipe de développement a réalisé des projets en Visual Basic, Visual C++, Visual J++ et Visual Studio .NET, notamment C#.
