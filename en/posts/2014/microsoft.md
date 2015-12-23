@@ -15,7 +15,7 @@ site_url: http://www.memba.com/en/posts/2015/12/microsoft
 ---
 Memba has long been a Microsoft shop and we used to be a Microsoft ISV and Microsoft partner. 
 Our development team has had experience with Visual Basic, Visual C++, Visual J++ and Visual Studio .NET including C#.
-This is long gone for teh following reasons.
+This is long gone for the following reasons.
 
 ### Microsoft's lack of commitment
 
