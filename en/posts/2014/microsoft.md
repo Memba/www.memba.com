@@ -5,6 +5,13 @@ icon: garbage
 keywords: Memba, Kidoju, Microsoft, Visual, Basic, C++, J++, C#, Studio, Silverlight, Java, MTS, SQL, MySQL, Oracle, open source, cloud, Amazon, AWS, Apple, iOS, Android JavaScript, nodeJS, MEAN
 language: en
 title: Why we ditched Microsoft development and runtime environments
+uuid: e1c0a470-a94e-11e5-9b32-4dc425266d67
+author: jlchereau
+author_url: https://github.com/jlchereau
+avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
+creation_date: 2015-12-23T08:26:02Z
+edit_url: https://github.com/Memba/www.memba.com/blob/master/en/posts/2014/microsoft.md
+site_url: http://www.memba.com/en/posts/2015/12/microsoft
 ---
 ## Why we ditched Microsoft development and runtime environments
 
