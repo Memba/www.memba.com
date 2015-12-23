@@ -2,7 +2,7 @@
 category: Miscellaneous
 description: We ditched Microsoft because Microsoft has a history of lacking commitment to its tools and open source, especially nodeJS, took developers by storm.
 icon: garbage
-keywords: Memba, Kidoju, Microsoft, Visual, Basic, C++, J++, C#, Studio, Silverlight, Java, MTS, SQL, MySQL, Oracle, open source, cloud, Amazon, AWS, Apple, iOS, Android JavaScript, nodeJS, MEAN
+keywords: Memba, Kidoju, Microsoft, Visual, Basic, C++, J++, C#, Studio, Silverlight, Java, MTS, SQL, MySQL, Oracle, open source, cloud, Amazon, AWS, Apple, iOS, Android, JavaScript, nodeJS, MEAN
 language: en
 title: Why we ditched Microsoft development and runtime environments
 uuid: e1c0a470-a94e-11e5-9b32-4dc425266d67
@@ -43,6 +43,6 @@ Mobile devices are essentially iOS and Android and Microsoft has lost this war t
 ### The MEAN stack
 
 The [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)) has not only reconciled us with HTML.
-We finally have one single language, [JavaScript](https://en.wikipedia.org/wiki/MEAN_(software_bundle)), to build code for browsers and servers.
+We finally have one single language, [JavaScript](https://en.wikipedia.org/wiki/JavaScript), to build code for browsers and servers.
 
 ![nodeJS Logo](https://raw.githubusercontent.com/Memba/www.memba.com/master/en/posts/2014/microsoft.png)
