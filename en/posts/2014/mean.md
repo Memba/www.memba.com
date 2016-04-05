@@ -22,7 +22,7 @@ Like most object oriented gurus, we have never been big fans of HTML. We also ha
  
 ### The MEAN stack
 
-![nodeJS Logo](https://raw.githubusercontent.com/Memba/www.memba.com/master/en/posts/2014/mean.png)
+![MEAN stack](https://raw.githubusercontent.com/Memba/www.memba.com/master/en/posts/2014/mean.png)
 
 Thanks to [nodeJS](https://nodejs.org/) and [expressJS](http://expressjs.com/), the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)) finally offers one single language,
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript), to build code for browsers and servers. The combination of nodeJS and expressJS is a very simple yet powerful server environment.
