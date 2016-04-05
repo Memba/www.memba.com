@@ -13,9 +13,16 @@ creation_date: 2015-05-29T17:12:25Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/pages/privacy.md
 site_url: http://www.memba.com/fr/privacy
 ---
-## dsdas
+### Données Personnelles
 
-dsadsadasdsa
-dsadasdasdsa
-dsadsadsadsad
-sadsadsadsa
+Ce site n'enregistre aucune donnée personnelle. En particulier, ce site n'utilise pas les cookies.
+
+### Outils tiers
+
+Ce site utilise [Google Analytics](http://www.google.com/analytics/) dans le seul but de mesurer votre intérêt pour ce que nous faisons.
+Google Analytics peut utiliser des cookies.
+
+### Liens vers d'autres sites 
+
+Ce site a des liens pour vous diriger vers et depuis d'autres sites.
+La confidentialité des données s'applique à ce seul site, et ne couvre pas les services à la source ou à la destination de ces liens.
