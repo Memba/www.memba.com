@@ -1,18 +1,48 @@
 ---
 category: Divers
-description: Nous avons abandonné Microsoft parce que Microsoft n'a pas maintenu ses outils de développement et le logiciel libre, notamment nodeJS, a été une révolution.
+description: Memba a choisi nodeJS, expressJS, mongoDB et phonegap.
 icon: garbage
 keywords: Memba, Kidoju, Microsoft, Visual, Basic, C++, J++, C#, Studio, Silverlight, Java, MTS, SQL, MySQL, Oracle, logiciel libre, informatique dématérialisée, Amazon, AWS, Apple, iOS, Android, JavaScript, nodeJS, MEAN
 language: fr
-title: Pourquoi nous avons abandonné les environnements de développement et d'exécution de Microsoft
+title: Phonegap et l'architecture MEAN
 uuid: 3fb02190-a955-11e5-9b32-4dc425266d67
 author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 creation_date: 2014-12-23T09:11:34Z
-edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/posts/2014/microsoft.md
-site_url: http://www.memba.com/fr/posts/2014/12/microsoft
+edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/posts/2014/mean.md
+site_url: http://www.memba.com/fr/posts/2014/12/mean
 ---
+### Not so long ago
+
+Memba has long been a Microsoft shop and we used to be a Microsoft ISV and Microsoft partner. 
+Our development team has had experience with Visual Basic, Visual C++, Visual J++ and Visual Studio .NET including C#.
+
+Like most object oriented gurus, we have never been big fans of HTML. We also had this strong feeling that the mix of languages and technical architecture of web applications could be streamlined.
+ 
+### The MEAN stack
+
+![MEAN stack](https://raw.githubusercontent.com/Memba/www.memba.com/master/en/posts/2014/mean.png)
+
+Thanks to [nodeJS](https://nodejs.org/) and [expressJS](http://expressjs.com/), the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)) finally offers one single language,
+[JavaScript](https://en.wikipedia.org/wiki/JavaScript), to build code for browsers and servers. The combination of nodeJS and expressJS is a very simple yet powerful server environment.
+
+To be fair, we do not use the A - AngularJS - in the MEAN stack, but this may change once [AngularJS](https://angularjs.org/) gets more mature.
+Instead, [jQuery](http://jquery.com/) and the [Kendo UI framework](http://www.telerik.com/kendo-ui), especially for MVVM and UI widgets, are the foundations of our client code.
+
+Despite the lack of atomic transactions and joins, we have found [mongoDB](http://www.mongodb.org) extremely intuitive, reliable and performing. We appreciate full-text search being built into the engine.
+
+### Phonegap
+
+The MEAN stack and [Phonegap](http://phonegap.com/) play well together especially when sharing a RESTful JSON API between a mobile application and a web UI.
+
+### Docker on AWS
+
+Our technical environment would not be complete without a production environment which is provided by the combination of [Amazon Web Services](https://aws.amazon.com/) and [Docker](https://www.docker.com/).
+Docker allows us to componentize server code into containers which can easily be deployed on AWS.
+
+
+
 Memba a longtemps été une boutique Microsoft et nous étions même Microsoft ISV et Microsoft Partner.
 Notre équipe de développement a réalisé des projets en Visual Basic, Visual C++, Visual J++ et Visual Studio .NET, notamment C#.
 C’est fini pour les raisons suivantes.
@@ -47,4 +77,4 @@ Les terminaux mobiles tournent majoritairement sous iOS et Android et Microsoft 
 La [pile MEAN](https://en.wikipedia.org/wiki/MEAN_(software_bundle)) ne nous a pas seulement réconciliés avec HTML.
 Nous avons enfin un seul langage, [JavaScript](https://en.wikipedia.org/wiki/JavaScript), pour construire du code pour les navigateurs et les serveurs.
 
-![nodeJS Logo](https://raw.githubusercontent.com/Memba/www.memba.com/master/fr/posts/2014/microsoft.png)
+![Logo MEAN](https://raw.githubusercontent.com/Memba/www.memba.com/master/fr/posts/2014/mean.png)
