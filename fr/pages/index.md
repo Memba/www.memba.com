@@ -15,10 +15,16 @@ site_url: http://www.memba.com/fr
 ---
 ### Qui est Memba?
 
-Memba is a software development boutique with a goal . 
+Memba est une boutique de développement et de commercialisation de logiciels éducatifs basée à Londres et au Luxembourg.
 
 ### Qu'est-ce que Kidoju?
 
-Kidoju is
+[Kidoju](http://www.kidoju.com/) est une plateforme de conception et de partage de tests de connaissance (ou de quiz).
+Elle se distingue de ses concurrents par un niveau élevé d'interactivité sans requérir de programmation. 
+Pour en savoir plus, lisez [notre vision](https://www.kidoju.com/support/fr/posts/2016/04/vision).
 
 ### Pourquoi ce site web?
+
+Alors que [le site support et le blog de Kidoju](https:www.kidoju.com/support/fr/) sont dédiés à la plateforme,
+ce site a pour objet de partager des informations générales concernant Memba, sa stratégie et ses choix,
+dans un marché en constante évolution.
