@@ -13,6 +13,10 @@ creation_date: 2015-05-29T17:12:25Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/en/pages/faqs.md
 site_url: http://www.memba.com/en/faqs
 ---
-## Who is Memba?
+### Who is Memba?
 
-## What is Kidoju?
+Memba is a software development boutique with a goal . 
+
+### What is Kidoju?
+
+Kidoju is
