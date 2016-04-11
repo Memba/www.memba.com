@@ -1,6 +1,13 @@
 [
   { "text": "Home", "href": "/fr/" },
   { "text": "Blog", "href": "/fr/posts" },
+  { "text": "Social",
+    "items": [
+      { "text": "LinkedIn", "href": "https://www.linkedin.com/company/memba" },
+      { "text": "Twitter", "href": "https://twitter.com/memba" },
+      { "text": "RSS feed", "href": "/fr/rss.xml" }
+    ]
+  },
   { "text": "More",
     "items": [
       { "text": "FAQs", "href": "/fr/faqs" },
