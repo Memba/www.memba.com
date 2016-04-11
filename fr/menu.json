@@ -10,7 +10,6 @@
   },
   { "text": "More",
     "items": [
-      { "text": "FAQs", "href": "/fr/faqs" },
       { "text": "Privacy Policy", "href": "/fr/privacy" },
       { "text": "Terms of Use", "href": "/fr/terms" }
     ]

@@ -1,10 +1,10 @@
 ---
 category: Miscellaneous
-description: Memba are the proud makers of Kidoju
-icon: home
+description: Answers to your frequently asked questions, including "who is Memba?" and "what is Kidoju?"
+icon: question_and_answer
 keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
 language: en
-title: Home
+title: Frequently Asked Questions
 uuid: 7dac1270-0ab7-11e5-a5fc-0bc8f37470e1
 author: jlchereau
 author_url: https://github.com/jlchereau
@@ -13,6 +13,12 @@ creation_date: 2015-05-29T17:12:25Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/en/pages/index.md
 site_url: http://www.memba.com/en
 ---
-## Memba
+### Who is Memba?
 
-dsadsadsads
+Memba is a software development boutique with a goal . 
+
+### What is Kidoju?
+
+Kidoju is
+
+### Why this web site?
