@@ -1,7 +1,7 @@
 ---
 category: Divers
-description: Memba a choisi nodeJS, expressJS, mongoDB et phonegap.
-icon: garbage
+description: Memba a choisi nodeJS, expressJS, mongoDB et phonegap pour construire ses solutions logicielles.
+icon: leaf
 keywords: Memba, Kidoju, Microsoft, Visual, Basic, C++, J++, C#, Studio, Silverlight, Java, MTS, SQL, MySQL, Oracle, logiciel libre, informatique dématérialisée, Amazon, AWS, Apple, iOS, Android, JavaScript, nodeJS, MEAN
 language: fr
 title: Phonegap et l'architecture MEAN

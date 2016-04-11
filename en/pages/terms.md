@@ -1,7 +1,7 @@
 ---
 category: Miscellaneous
 description: Memba are the proud makers of Kidoju
-icon: typewriter
+icon: contract
 keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
 language: en
 title: Terms of Use
@@ -19,4 +19,4 @@ This is a free web site and although we do our best to provide relevant and accu
 
 ### Use at your own risk
 
-The information on this web site is provided **AS IS WITHOUT GUARANTEE OF ANY KIND**.
+The information on this web site is provided **AS IS WITHOUT GUARANTEE OF ANY KIND**. By using this web site, you agree to these terms.

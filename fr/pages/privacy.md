@@ -1,7 +1,7 @@
 ---
-category: Miscellaneous
+category: Divers
 description: Memba are the proud makers of Kidoju
-icon: typewriter
+icon: eye
 keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
 language: fr
 title: Confidentialité des données
