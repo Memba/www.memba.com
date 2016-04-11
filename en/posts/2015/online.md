@@ -1,8 +1,8 @@
 ---
 category: Miscellaneous
-description: Memba are the proud makers of Kidoju
-icon: typewriter
-keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
+description: The Memba website is online and this constitutes a prototype for deploying Kidoju, which is next to come
+icon: environment_network
+keywords: Memba, blog, online, amazon, web, services, cloud, prototype
 language: en
 title: We are online!
 uuid: 80c1b6e0-0ab7-11e5-a5fc-0bc8f37470e1
@@ -13,7 +13,21 @@ creation_date: 2015-05-29T17:12:25Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/en/posts/2015/online.md
 site_url: http://www.memba.com/en/posts/2015/05/online
 ---
-## dsadsadas
-sdsadsad
-dsadsadsa
-dsadsadsa
+We already had a web site and this replaces it.
+
+This is great new and we are really excited about it because:
+
+1. Our new [blog software](https://github.com/Memba/Memba-Blog) is a minimal version of the Kidoju [MEAN architecture](http://www.memba.com/en/posts/2014/12/mean).
+2. It is deployed on [Amazon AWS](https://aws.amazon.com/), with multiple docker[https://www.docker.com/] containers, [nginx](http://nginx.org/) proxies and an AWS load balancer.
+
+In other words, this is a test lab to bullet proof our Kidoju architecture and deployment before release.
+
+![We are online!](https://raw.githubusercontent.com/Memba/www.memba.com/master/en/posts/2015/online.jpg)
+
+Apart from the benefits of such test lab, we have built a new blog software for several reasons:
+
+1. Considering our extensive use of [Kendo UI widgets](http://www.telerik.com/kendo-ui), customizing [WordPress](https://www.wordpress.com/), [Blogger](https://www.blogger.com) or [Ghost](https://ghost.org/fr/) to our UI design guidelines was not an easy task;
+2. If we are found of [Jekyll](https://jekyllrb.com/) and [Octopress](http://octopress.org/), rebuilding the web site when content changes is too constraining.
+3. We like [markdown](https://en.wikipedia.org/wiki/Markdown) and [Github](https://github.com/) offers a great environement to write and version markdown files. 
+
+We have made our [blog software](https://github.com/Memba/Memba-Blog) free to use for anyone.
