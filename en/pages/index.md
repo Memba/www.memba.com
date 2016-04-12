@@ -16,7 +16,7 @@ site_url: http://www.memba.com/en
 ### Who is Memba?
 
 Memba is a software development and marketing boutique specialized in education software.
-Memba is based in London, UK, and in Luxembourg. 
+Memba is based in Luxembourg, with a representation office in London, UK. 
 
 ### What is Kidoju?
 
@@ -32,4 +32,4 @@ in a constantly evolving market.
 
 ### How to contact us?
 
-Use the social network links in the top menu or 
+Use the social network links in the top menu or our [contact form](/en/contact).
