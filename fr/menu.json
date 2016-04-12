@@ -1,5 +1,5 @@
 [
-  { "text": "Home", "href": "/fr/" },
+  { "text": "Accueil", "href": "/fr/" },
   { "text": "Blog", "href": "/fr/posts" },
   { "text": "Social",
     "items": [
@@ -8,10 +8,11 @@
       { "text": "RSS feed", "href": "/fr/rss.xml" }
     ]
   },
-  { "text": "More",
+  { "text": "Plus",
     "items": [
-      { "text": "Privacy Policy", "href": "/fr/privacy" },
-      { "text": "Terms of Use", "href": "/fr/terms" }
+      { "text": "Confidentialité des données", "href": "/fr/privacy" },
+      { "text": "Conditions d'utilisation", "href": "/fr/terms" },
+      { "text": "Nous contacter", "href": "/en/contact" }
     ]
   }
 ]

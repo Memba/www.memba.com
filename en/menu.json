@@ -11,7 +11,8 @@
   { "text": "More",
     "items": [
       { "text": "Privacy Policy", "href": "/en/privacy" },
-      { "text": "Terms of Use", "href": "/en/terms" }
+      { "text": "Terms of Use", "href": "/en/terms" },
+      { "text": "Contact Us", "href": "/en/contact" }
     ]
   }
 ]

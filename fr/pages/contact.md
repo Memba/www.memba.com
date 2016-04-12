@@ -4,7 +4,7 @@ description: Un formulaire pour nous contacter.
 icon: user_telephone
 keywords: Memba, Kidoju, logiciel, éducation, enseigner, apprendre, professeur, étudiant, connaissance, exercice, test, quiz, blog, article, documentation
 language: en
-title: Contact Us
+title: Nous contacter
 author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3

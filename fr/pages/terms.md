@@ -1,6 +1,6 @@
 ---
 category: Divers
-description: Les termes d'utilisation du site web de Memba
+description: Les conditions d'utilisation du site web de Memba
 icon: contract
 keywords: Memba, Kidoju, logiciel, éducation, enseigner, apprendre, professeur, étudiant, connaissance, exercice, test, quiz, blog, article, documentation
 language: fr
