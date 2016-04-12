@@ -18,8 +18,9 @@ site_url: http://www.memba.com/en/posts/2014/12/mean
 Memba has long been a Microsoft shop and we used to be a Microsoft ISV and Microsoft partner. 
 Our development team has had experience with Visual Basic, Visual C++, Visual J++ and Visual Studio .NET including C#.
 
-Like most object oriented gurus, we have never been big fans of HTML. We also had this strong feeling that the mix of languages and technical architecture of web applications could be streamlined.
- 
+Like most object oriented gurus, we have never been big fans of HTML. We also had this strong feeling that the mix of languages and technical architecture of web applications could be streamlined,
+also considering the frustration of working with black boxes.
+
 ### The MEAN stack
 
 ![MEAN stack](https://raw.githubusercontent.com/Memba/www.memba.com/master/en/posts/2014/mean.png)
