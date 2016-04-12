@@ -5,6 +5,7 @@ icon: user_telephone
 keywords: Memba, Kidoju, software, education, teach, learn, teacher, student, knowledge, test, quiz, blog, article, documentation
 language: en
 title: Contact Us
+uuid: daac815d-298b-406b-a707-0110a1c2685f
 author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3

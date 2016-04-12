@@ -5,7 +5,7 @@ icon: leaf
 keywords: Memba, Kidoju, Microsoft, Visual, Basic, C++, J++, C#, Studio, Silverlight, Java, MTS, SQL, MySQL, Oracle, logiciel libre, informatique dématérialisée, Amazon, AWS, Apple, iOS, Android, JavaScript, nodeJS, MEAN
 language: fr
 title: Phonegap et l'architecture MEAN
-uuid: 3fb02190-a955-11e5-9b32-4dc425266d67
+uuid: 5265f6d7-ba3d-41e0-be8a-fee45caa501c
 author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3

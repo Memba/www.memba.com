@@ -5,7 +5,7 @@ icon: environment_network
 keywords: Memba, blog, online, amazon, web, services, aws, cloud, prototype, nodeJS, expressJS, docker, nginx, kendo ui, wordpress, blogger, ghost, jekyll, octopress, markdown, github
 language: fr
 title: Nous sommes en ligne!
-uuid: 80d2a6d0-0ab7-11e5-a5fc-0bc8f37470e1
+uuid: 223a9bf3-d88d-4122-a176-a4afd8b2ac67
 author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3

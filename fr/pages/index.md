@@ -5,7 +5,7 @@ icon: question_and_answer
 keywords: Memba, Kidoju, logiciel, éducation, enseigner, apprendre, professeur, étudiant, connaissance, exercice, test, quiz, blog, article, documentation
 language: fr
 title: Questions fréquentes
-uuid: 7dbd7790-0ab7-11e5-a5fc-0bc8f37470e1
+uuid: bdc6d3a2-6998-4ceb-85f8-53369a2a5234
 author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
