@@ -1,6 +1,6 @@
 ---
 category: Miscellaneous
-description: The Memba website is online and it constitutes a prototype for deploying Kidoju, which is next to come.
+description: The Memba website is online and it constitutes a prototype for deploying Kidoju, which is coming soom.
 icon: environment_network
 keywords: Memba, blog, online, amazon, web, services, aws, cloud, prototype, nodeJS, expressJS, docker, nginx, kendo ui, wordpress, blogger, ghost, jekyll, octopress, markdown, github
 language: en

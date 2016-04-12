@@ -1,6 +1,6 @@
 ---
 category: Divers
-description: Le site web Memba est en ligne et il constitue un prototype pour le déploiement de Kidoju, qui est arrivera bientôt.
+description: Le site web Memba est en ligne et il constitue un prototype pour le déploiement de Kidoju, qui arrivera bientôt.
 icon: environment_network
 keywords: Memba, blog, online, amazon, web, services, aws, cloud, prototype, nodeJS, expressJS, docker, nginx, kendo ui, wordpress, blogger, ghost, jekyll, octopress, markdown, github
 language: fr
