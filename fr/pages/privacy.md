@@ -1,8 +1,8 @@
 ---
 category: Divers
-description: Memba are the proud makers of Kidoju
+description: La politique de Memba concernant la confidentialité des données.
 icon: eye
-keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
+keywords: Memba, Kidoju, logiciel, éducation, enseigner, apprendre, professeur, étudiant, connaissance, exercice, test, quiz, blog, article, documentation
 language: fr
 title: Confidentialité des données
 uuid: 7e97aaf0-0ab7-11e5-a5fc-0bc8f37470e1

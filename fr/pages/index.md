@@ -2,7 +2,7 @@
 category: Divers
 description: Réponses à vos questions les plus fréquentes, notamment "qui est Memba?" et "qu'est-ce que Kidoju?"
 icon: question_and_answer
-keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
+keywords: Memba, Kidoju, logiciel, éducation, enseigner, apprendre, professeur, étudiant, connaissance, exercice, test, quiz, blog, article, documentation
 language: fr
 title: Questions fréquentes
 uuid: 7dbd7790-0ab7-11e5-a5fc-0bc8f37470e1
@@ -19,7 +19,7 @@ Memba est une boutique de développement et de commercialisation de logiciels é
 
 ### Qu'est-ce que Kidoju?
 
-[Kidoju](http://www.kidoju.com/) est une plateforme de conception et de partage de tests de connaissance (ou de quiz).
+[Kidoju](http://www.kidoju.com/) est une plateforme communautaire de conception et de partage de tests de connaissance (ou de quiz).
 Elle se distingue de ses concurrents par un niveau élevé d'interactivité sans requérir de programmation. 
 Pour en savoir plus, lisez [notre vision](https://www.kidoju.com/support/fr/posts/2016/04/vision).
 
