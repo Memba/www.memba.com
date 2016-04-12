@@ -1,8 +1,8 @@
 ---
 category: Miscellaneous
-description: Memba are the proud makers of Kidoju
+description: The Memba privacy policy.
 icon: eye
-keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
+keywords: Memba, Kidoju, software, education, teach, learn, teacher, student, knowledge, test, quiz, blog, article, documentation
 language: en
 title: Privacy Policy
 uuid: 7e8bc410-0ab7-11e5-a5fc-0bc8f37470e1

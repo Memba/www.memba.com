@@ -1,8 +1,8 @@
 ---
 category: Miscellaneous
-description: Memba are the proud makers of Kidoju
+description: The terms of use of the Memba web site.
 icon: contract
-keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
+keywords: Memba, Kidoju, software, education, teach, learn, teacher, student, knowledge, test, quiz, blog, article, documentation
 language: en
 title: Terms of Use
 uuid: 7f613c80-0ab7-11e5-a5fc-0bc8f37470e1
