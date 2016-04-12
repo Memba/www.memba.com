@@ -3,6 +3,7 @@
   { "text": "Blog", "href": "/fr/posts" },
   { "text": "Social",
     "items": [
+      { "text": "Github", "href": "https://github.com/memba" },
       { "text": "LinkedIn", "href": "https://www.linkedin.com/company/memba" },
       { "text": "Twitter", "href": "https://twitter.com/memba" },
       { "text": "RSS feed", "href": "/fr/rss.xml" }
