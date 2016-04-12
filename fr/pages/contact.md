@@ -9,8 +9,9 @@ uuid: 9aa49c0f-a12d-43d0-917c-ee76225bee7a
 author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
-edit_url: https://github.com/Memba/www.memba.com/blob/master/en/pages/contact.md
-site_url: http://www.memba.com/en/contact
+edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/pages/contact.md
+site_url: http://www.memba.com/fr/contact
+creation_date: 2016-04-12T08:51:27Z
 ---
 <form name="insightly_web_to_contact" action="https://iuqqkh1d.insight.ly/WebToContact/Create" method="post">
     <input type="hidden" name="formId" value="LfOfVxwkqgkYOx7pcM6LtA=="/>
