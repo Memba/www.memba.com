@@ -1,14 +1,14 @@
 [
-  { "text": "Home", "href": "/en/" },
-  { "text": "Blog", "href": "/en/posts" },
-  { "text": "Social",
+  { "text": "Home", "icon": "home", "href": "/en/" },
+  { "text": "Blog", "icon": "blog", "href": "/en/posts" },
+  { "text": "Social", "icon": "share",
     "items": [
       { "text": "LinkedIn", "href": "https://www.linkedin.com/company/memba" },
       { "text": "Twitter", "href": "https://twitter.com/memba" },
       { "text": "RSS feed", "href": "/en/rss.xml" }
     ]
   },
-  { "text": "More",
+  { "text": "More", "icon": "add",
     "items": [
       { "text": "Privacy Policy", "href": "/en/privacy" },
       { "text": "Terms of Use", "href": "/en/terms" },

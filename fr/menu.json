@@ -1,7 +1,7 @@
 [
-  { "text": "Accueil", "href": "/fr/" },
-  { "text": "Blog", "href": "/fr/posts" },
-  { "text": "Social",
+  { "text": "Accueil", "icon": "home", "href": "/fr/" },
+  { "text": "Blog", "icon": "blog", "href": "/fr/posts" },
+  { "text": "Social", "icon": "share",
     "items": [
       { "text": "Github", "href": "https://github.com/memba" },
       { "text": "LinkedIn", "href": "https://www.linkedin.com/company/memba" },
@@ -9,7 +9,7 @@
       { "text": "RSS feed", "href": "/fr/rss.xml" }
     ]
   },
-  { "text": "Plus",
+  { "text": "Plus", "icon": "add",
     "items": [
       { "text": "Confidentialité des données", "href": "/fr/privacy" },
       { "text": "Conditions d'utilisation", "href": "/fr/terms" },
