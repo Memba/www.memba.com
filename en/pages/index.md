@@ -21,7 +21,7 @@ Memba is based in Luxembourg, with a representation office in London, UK.
 ### What is Kidoju?
 
 [Kidoju](http://www.kidoju.com/) is a community platform to design and share knowledge tests (or quizzes).
-It distinguishes itself from its competition by provising a high level of interactivity without requiring programming skills.
+It distinguishes itself from its competition by providing a high level of interactivity without requiring programming skills.
 To learn more, please read [our vision](https://www.kidoju.com/support/en/posts/2015/05/vision).
 
 ### Why this web site?
