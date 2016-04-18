@@ -4,6 +4,7 @@
   { "text": "Social", "icon": "share",
     "items": [
       { "text": "Github", "href": "https://github.com/memba" },
+      { "text": "Google+", "href": "https://plus.google.com/b/118302911852610215000/118302911852610215000" },
       { "text": "LinkedIn", "href": "https://www.linkedin.com/company/memba" },
       { "text": "Twitter", "href": "https://twitter.com/memba" },
       { "text": "RSS feed", "href": "/fr/rss.xml" }
