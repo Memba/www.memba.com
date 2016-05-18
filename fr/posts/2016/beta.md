@@ -13,9 +13,9 @@ creation_date: 2016-03-09T12:24:31Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/posts/2016/beta.md
 site_url: http://www.memba.com/fr/posts/2016/03/beta
 ---
-Kidoju est en ligne à l’adresse [https://www.kidoju.com](https://www.kidoju.com).
+Kidoju est maintenant en ligne à l’adresse [https://www.kidoju.com](https://www.kidoju.com).
 
-Les fonctionnalités disponibles comprennent la création, la recherche et l’exécution de tests de connaissance avec correction automatique.
+Les fonctionnalités disponibles comprennent la création, la recherche et l’exécution de quizz et tests de connaissance interactifs avec correction automatique.
 Kidoju se distingue fonctionnellement de ses compétiteurs comme Quizlet, Qzzr et Socrative par une interface de conception « à la PowerPoint »
 avec une boite à outils extensible, qui comprend aujourd’hui :
 
