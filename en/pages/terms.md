@@ -19,4 +19,4 @@ This is a free web site and although we do our best to provide relevant and accu
 
 ### Use at your own risk
 
-The information on this web site is provided **AS IS WITHOUT GUARANTEE OF ANY KIND**. By using this web site, you agree to these terms.
+The information on this web site is provided **AS IS WITHOUT WARRANTY OF ANY KIND**. By using this web site, you agree to these terms.
