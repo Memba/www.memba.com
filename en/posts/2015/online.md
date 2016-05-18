@@ -28,7 +28,7 @@ Apart from the benefits of such test lab, we have built a new blog software for 
 
 1. Considering our extensive use of [Kendo UI widgets](http://www.telerik.com/kendo-ui), customizing [WordPress](https://www.wordpress.com/), [Blogger](https://www.blogger.com) or [Ghost](https://ghost.org/fr/) to our UI design guidelines was not an easy task;
 2. Although [Jekyll](https://jekyllrb.com/) and [Octopress](http://octopress.org/) are very neat, we feel that rebuilding and redeploying each time content changes is too constraining.
-3. We enjoy [markdown](https://en.wikipedia.org/wiki/Markdown) and [Github](https://github.com/) offers a great environement to write and version markdown files. 
+3. We enjoy [markdown](https://en.wikipedia.org/wiki/Markdown) and [Github](https://github.com/) offers a great environment to write and version markdown files. 
 
 We have made our [blog software](https://github.com/Memba/Memba-Blog) free to use for everyone.
 It uses Kendo UI, it reads markdown and automatically pulls new content from Github each time a change is detected.
