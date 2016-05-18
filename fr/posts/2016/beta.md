@@ -23,10 +23,10 @@ avec une boite à outils extensible, qui comprend aujourd’hui :
 - Les images,
 - La video,
 - Le son (Audio),
-- Les questions courtes (Boite de Texte)
-- Les questions à choix multiples alternatives (Boutons)
-- Les questions à choix multiples cumulatives (Cases à cocher)
-- Les connecteurs pour relier des concepts représentés par du texte ou des images ;
+- Les questions courtes (Boite de Texte),
+- Les questions à choix multiples alternatives (Boutons),
+- Les questions à choix multiples cumulatives (Cases à cocher),
+- Les connecteurs pour relier des concepts représentés par du texte ou des images,
 - Les zones de dépôt pour glisser-déposer des objets sur des emplacements prévus.
 
 ![Kidoju est en bêtatest!](https://raw.githubusercontent.com/Memba/www.memba.com/master/fr/posts/2016/beta.png)
