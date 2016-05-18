@@ -33,7 +33,7 @@ avec une boite à outils extensible, qui comprend aujourd’hui :
 
 Notre plan de développement prévoit :
 
-- L’application mobile et la version 1 pour le dernier trimestre 2016 ;
+- L’application mobile et la version 1 pour le dernier trimestre 2016, et
 - La gestion de classe et l’allocation de devoirs (version 2) pour le dernier trimestre 2017.
 
 De nouveaux outils seront mis en ligne au fur et à mesure.
