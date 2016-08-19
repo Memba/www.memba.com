@@ -26,3 +26,11 @@ Google Analytics may use cookies.
 
 This site links to and from other web sites.
 This privacy policy only applies to this website, and doesn’t cover other services that we link to/from.
+
+### Changes
+
+This site may periodically update this policy.
+
+### Questions
+
+Any questions about this Privacy Policy should be addressed via our [Contact Form](http://www.memba.com/en/contact).
