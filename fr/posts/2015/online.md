@@ -11,13 +11,13 @@ author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 creation_date: 2015-05-29T17:12:25Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/posts/2015/online.md
-site_url: http://www.memba.com/fr/posts/2015/05/online
+site_url: https://www.memba.com/fr/posts/2015/05/online
 ---
 We already had a web site and this replaces it.
 
 This is great news and we are really excited about it because:
 
-1. Our new [blog software](https://github.com/Memba/Memba-Blog) is a minimal version of the Kidoju [MEAN architecture](http://www.memba.com/en/posts/2014/12/mean).
+1. Our new [blog software](https://github.com/Memba/Memba-Blog) is a minimal version of the Kidoju [MEAN architecture](https://www.memba.com/en/posts/2014/12/mean).
 2. It is deployed on [Amazon AWS](https://aws.amazon.com/), with multiple [docker](https://www.docker.com/) containers, [nginx](http://nginx.org/) proxies and an AWS load balancer.
 
 In other words, we have turned this web site into a test lab to bullet proof our Kidoju architecture and deployment before release.

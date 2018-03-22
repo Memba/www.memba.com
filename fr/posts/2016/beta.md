@@ -11,7 +11,7 @@ author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 creation_date: 2016-03-09T12:24:31Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/posts/2016/beta.md
-site_url: http://www.memba.com/fr/posts/2016/03/beta
+site_url: https://www.memba.com/fr/posts/2016/03/beta
 ---
 Kidoju est maintenant en ligne à l’adresse [https://www.kidoju.com](https://www.kidoju.com).
 

@@ -11,7 +11,7 @@ author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 creation_date: 2015-05-29T17:12:25Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/pages/privacy.md
-site_url: http://www.memba.com/fr/privacy
+site_url: https://www.memba.com/fr/privacy
 ---
 ### Données personnelles
 
@@ -33,4 +33,4 @@ Ce site se réserve de régulièrement mettre à jour sa politique de confidenti
 
 ### Questions
 
-Toute question relative à cette politique de confidentialité des données doit être adressée via notre [Formulaire de Contact](http://www.memba.com/fr/contact).
+Toute question relative à cette politique de confidentialité des données doit être adressée via notre [Formulaire de Contact](https://www.memba.com/fr/contact).

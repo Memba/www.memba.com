@@ -11,7 +11,7 @@ author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 creation_date: 2014-12-23T09:11:34Z
 edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/posts/2014/mean.md
-site_url: http://www.memba.com/fr/posts/2014/12/mean
+site_url: https://www.memba.com/fr/posts/2014/12/mean
 ---
 ### Il n’y a pas si longtemps
 

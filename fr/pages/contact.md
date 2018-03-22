@@ -10,7 +10,7 @@ author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/pages/contact.md
-site_url: http://www.memba.com/fr/contact
+site_url: https://www.memba.com/fr/contact
 creation_date: 2016-04-12T08:51:27Z
 ---
 <div class="container">
