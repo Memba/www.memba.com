@@ -13,63 +13,64 @@ edit_url: https://github.com/Memba/www.memba.com/blob/master/fr/pages/contact.md
 site_url: https://www.memba.com/fr/contact
 creation_date: 2016-04-12T08:51:27Z
 ---
-<div class="container">
-    <div class="row">
-        <div class="col-sm-8">
-            <form name="insightly_web_to_contact" action="https://iuqqkh1d.insight.ly/WebToContact/Create" method="post">
-                <input type="hidden" name="formId" value="LfOfVxwkqgkYOx7pcM6LtA=="/>
-                <div class="form-group">
-                    <label for="insightly_firstName">Prénom: </label>
-                    <input id="insightly_firstName" name="FirstName" type="text" class="k-textbox" style="width: 100%" required>
-                </div>
-                <div class="form-group">
-                    <label for="insightly_lastName">Nom: </label>
-                    <input id="insightly_lastName" name="LastName" type="text" class="k-textbox" style="width: 100%" required>
-                </div>
-                <div class="form-group">
-                    <label for="insightly_organization">Organisation: </label>
-                    <input id="insightly_organization" name="Organization" type="text" class="k-textbox" style="width: 100%">
-                </div>
-                <div class="form-group">
-                    <label for="insightly_role">Fonction: </label>
-                    <input id="insightly_role" name="Role" type="text" class="k-textbox" style="width: 100%">
-                </div>
-                <div class="form-group">
-                    <input type="hidden" name="emails[0].Label" value="Work">
-                    <label for="email[0]_Value">E-mail: </label>
-                    <input id="emails[0]_Value" name="emails[0].Value" type="email" class="k-textbox" style="width: 100%" required>
-                </div>
-                <div class="form-group">
-                    <input type="hidden" name="phones[0].Label" value="Work">
-                    <label for="phones[0]_Value">Téléphone: </label>
-                    <input id="phones[0]_Value" name="phones[0].Value" type="text" class="k-textbox" style="width: 100%">
-                </div>
-                <div class="form-group">
-                    <label for="insightly_background">Message: </label>
-                    <textarea id="insightly_background" name="background" class="k-textbox" style="width: 100%; height: 150px; resize: vertical"></textarea>
-                </div>
-                <div class="form-group">
-                    <input type="submit" value="Soumettre" class="k-button k-primary pull-right">
-                </div>
-            </form>
-        </div>
-        <div class="col-sm-4">
-            <p><strong>Ou écrivez-nous à:</strong></p>
-            <address>
-                Memba Sarl<br/>
-                20 avenue Pasteur<br/>
-                L-2310 Luxembourg
-            </address>
+<div id="alert" class="row" style="display:none;">
+    <div class="col-sm-12">
+        <div class="alert alert-success" role="alert">
+            Merci pour avoir complété ce formulaire.
         </div>
     </div>
 </div>
-
+<div class="row">
+    <div class="col-sm-8">
+        <form name="contact" action="/form" method="post">
+            <div class="form-group">
+                <label for="firstName">Prénom&nbsp;: </label>
+                <input id="firstName" name="FirstName" type="text" class="k-textbox" style="width: 100%" required>
+            </div>
+            <div class="form-group">
+                <label for="lastName">Nom&nbsp;: </label>
+                <input id="lastName" name="LastName" type="text" class="k-textbox" style="width: 100%" required>
+            </div>
+            <div class="form-group">
+                <label for="organization">Organisation&nbsp;: </label>
+                <input id="organization" name="Organization" type="text" class="k-textbox" style="width: 100%">
+            </div>
+            <div class="form-group">
+                <label for="role">Fonction&nbsp;: </label>
+                <input id="role" name="Role" type="text" class="k-textbox" style="width: 100%">
+            </div>
+            <div class="form-group">
+                <label for="email">E-mail&nbsp;: </label>
+                <input id="email" name="Email" type="email" class="k-textbox" style="width: 100%" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Téléphone&nbsp;: </label>
+                <input id="phone" name="Phone" type="text" class="k-textbox" style="width: 100%">
+            </div>
+            <div class="form-group">
+                <label for="message">Message&nbsp;: </label>
+                <textarea id="message" name="Message" class="k-textbox" style="width: 100%; height: 150px; resize: vertical" required></textarea>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Soumettre" class="k-button k-primary pull-right">
+            </div>
+        </form>
+    </div>
+    <div class="col-sm-4">
+        <p><strong>Ou écrivez-nous à:</strong></p>
+        <address>
+            Memba Sarl<br/>
+            20 avenue Pasteur<br/>
+            L-2310 Luxembourg
+        </address>
+    </div>
+</div>
 
 <script>
 ;(function (window, $, undefined) {
     $(function () {
+        var form = $('form[name="contact"]');
         if ($.fn.kendoValidator) {
-            var form = $('#insightly_web_to_contact');
             var validator = form.kendoValidator().data('kendoValidator');
             form.submit(function (e) {
                 if (!validator.validate()) {
@@ -77,6 +78,21 @@ creation_date: 2016-04-12T08:51:27Z
                 }
             });
         }
+        var hash = window.location.hash.substr(1).split(/[&=]/);
+        var length = hash.length;
+        if (length === 2 && hash[0] === 'success' && hash[1] === 'true') {
+            $('#alert').show();
+        } else if (Math.floor(length / 2) === length / 2) {
+            for (var i = 0; i < length / 2; i++) {
+                $('#' + hash[2 * i].toLowerCase()).val(hash[2 * i + 1]);
+            }
+        }
+        setTimeout(function () {
+            var a = Math.floor(100 * Math.random());
+            var b = Math.floor(100 * Math.random());
+            form.append('<input name="__a" type="hidden" value="' + a + '+' + b + '">');
+            form.append('<input name="__b" type="hidden" value="' + (a + b) + '">');
+        }, 15 * 1000);
     });
 }(this, jQuery));
 </script>
